@@ -121,6 +121,8 @@ For the next category, I'm following Deydier.
     ![image](https://user-images.githubusercontent.com/465632/229541233-bb8e7062-4c04-473b-99f8-acda8aa44de3.png)
     ![image](https://user-images.githubusercontent.com/465632/229541293-dc9673d3-59a2-41b2-8c84-44513639d2d1.png)
   * Ram/Sheep/Goat (羊)
+    ![image](https://user-images.githubusercontent.com/465632/229553995-98988bae-b485-48c1-8fe0-0d3effb875d0.png)
+    ![image](https://user-images.githubusercontent.com/465632/229554058-c963c116-ef09-47e0-9c7a-7e1866dc297f.png)
   * Tiger (虎)
   * Horse (馬)
   * Rabbit/Hare (兔)
