@@ -6,6 +6,8 @@ I'm going to go through various figures that appear in early chinese bronze vess
 
 "Animal-style motives that aren't portrayal of actual animals, but composites of different animal features and stylized animals, above all t'ao t'ieh + dragons." (Costen)
 
+I'm following Consten closely for this category:
+
 * Taotie (饕餮) 'glutton'
   * "The term t'ao-t'ieh denotes mask-like animal faces in frontal view, which lie flat on the surface of the vessel" (Consten)
   * The Annals of Lü Buwei, 16/1.5 (~240BC) described as:
@@ -30,6 +32,15 @@ I'm going to go through various figures that appear in early chinese bronze vess
   * Here's one that has limbs, but not composed of left/right animals:
     ![image](https://user-images.githubusercontent.com/465632/229519626-cd806ff3-7bf7-4312-86aa-83153ffc33bd.png)
     ![image](https://user-images.githubusercontent.com/465632/229520591-6f71a1df-2f4b-4c9a-98f8-2d9839c926db.png)
+  * A bit abstracted and, though I didn't draw it like this, I think it wraps around repeating?
+    ![image](https://user-images.githubusercontent.com/465632/229547536-2549923f-2730-4702-919a-c7f8020097da.png)
+    ![image](https://user-images.githubusercontent.com/465632/229547594-7f71fcba-9716-485b-afb8-0d6a1579f6f5.png)
+  * A pretty sparse one!
+    ![image](https://user-images.githubusercontent.com/465632/229548730-3789baac-31ed-4272-aac5-d627a012e48c.png)
+    ![image](https://user-images.githubusercontent.com/465632/229548830-4e3551c6-9bee-444f-828c-e26df63d766d.png)
+  * Fanged
+    ![image](https://user-images.githubusercontent.com/465632/229549674-1fa4071c-ae55-41f9-88db-d1e8200730fd.png)
+    ![image](https://user-images.githubusercontent.com/465632/229549715-1a89e650-fd7e-4b2b-8f58-560b1fb49e11.png)
 
 * Dragons (龍)
   * ![image](https://user-images.githubusercontent.com/465632/229531748-5b0fba5a-6672-4844-885a-95cc4a43f10f.png)
@@ -38,6 +49,13 @@ I'm going to go through various figures that appear in early chinese bronze vess
     ![image](https://user-images.githubusercontent.com/465632/229532289-35f04f62-6224-4c9c-9f3d-c495ff1abaef.png)
   * ![image](https://user-images.githubusercontent.com/465632/229540691-d7d55ea4-6c43-4485-8940-f26c9788be19.png)
     ![image](https://user-images.githubusercontent.com/465632/229540721-971e86de-b3e0-478e-bf86-b2349c037e4a.png)
+  * A Taotie made of dragons:
+    ![image](https://user-images.githubusercontent.com/465632/229548264-b325d25e-6893-4dab-8e18-69c67a2dd122.png)
+    ![image](https://user-images.githubusercontent.com/465632/229548594-db9fedbf-a4e8-43d9-af44-3cb2b1e87731.png)
+  * Another dragon Taotie (or maybe dear? the nose+'antlers'+eye make me think Dear)
+    ![image](https://user-images.githubusercontent.com/465632/229548999-07db919e-a4d8-49ba-a53a-6e94067409a7.png)
+    ![image](https://user-images.githubusercontent.com/465632/229549155-58c769fb-d5e8-4774-9968-12a95149be30.png)
+
 
 * No idea
   * ![image](https://user-images.githubusercontent.com/465632/229540844-d2201889-b2b8-48cc-a72e-cd47706a3da8.png)
@@ -91,17 +109,44 @@ For the next category, I'm following Deydier.
     ![image](https://user-images.githubusercontent.com/465632/229538699-dc0ad780-645a-44a5-8bc4-179ed026a9d1.png)
     ![image](https://user-images.githubusercontent.com/465632/229539030-b107baf4-7ea9-407c-8fcc-3e5d87bf7ab7.png)
     ![image](https://user-images.githubusercontent.com/465632/229539043-fd59c09d-1bbf-4d34-b7b5-be8be3a8f027.png)
-  * Cow/Ox/?
-    ![image](https://user-images.githubusercontent.com/465632/229539178-58056b8b-1e5d-476c-9241-5eb2cbc7443c.png)
-    ![image](https://user-images.githubusercontent.com/465632/229539241-6763b84f-8576-49c1-a2c9-ae8064a49b09.png)
   * Deer (鹿)
     ![image](https://user-images.githubusercontent.com/465632/229539451-b5869ced-32f7-44bd-b3aa-64b3bfac787a.png)
     ![image](https://user-images.githubusercontent.com/465632/229539511-53bf2e90-20e3-4f47-b586-2d7bcf2b3768.png)
     Note that the next one is a Taotie:
     ![image](https://user-images.githubusercontent.com/465632/229539571-2e39579e-21f0-4106-9213-b37847ddbaf2.png)
     ![image](https://user-images.githubusercontent.com/465632/229539680-e012f13a-fea5-4f97-9968-ceb592c09ea5.png)
-    
+  * Water Buffalo (水牛)
+    ![image](https://user-images.githubusercontent.com/465632/229539178-58056b8b-1e5d-476c-9241-5eb2cbc7443c.png)
+    ![image](https://user-images.githubusercontent.com/465632/229539241-6763b84f-8576-49c1-a2c9-ae8064a49b09.png)
+    ![image](https://user-images.githubusercontent.com/465632/229541233-bb8e7062-4c04-473b-99f8-acda8aa44de3.png)
+    ![image](https://user-images.githubusercontent.com/465632/229541293-dc9673d3-59a2-41b2-8c84-44513639d2d1.png)
+  * Ram/Sheep/Goat (羊)
+  * Tiger (虎)
+  * Horse (馬)
+  * Rabbit/Hare (兔)
+    ![image](https://user-images.githubusercontent.com/465632/229541610-d7e1961e-7dfb-4311-95a1-fca6e49ff118.png)
+    ![image](https://user-images.githubusercontent.com/465632/229541666-fddd65dd-5b60-495f-a62d-8c870af6da27.png)
 
+For the next category, I'm following Deydier.
+
+# Abstract Motifs
+  * Thunder/Leiwen aka spirals (雷)
+  * Revolving Flame/Jiongwen (冏)
+    ![image](https://user-images.githubusercontent.com/465632/229542190-06ab0f37-778c-42ea-abc5-ea1d3ede9a3b.png)
+    ![image](https://user-images.githubusercontent.com/465632/229542261-dee78405-b99a-46c9-8d41-e89199a862be.png)
+  * Qiequ "stolen curve" (竊曲)
+    ![image](https://user-images.githubusercontent.com/465632/229542687-f2ab2e86-0ba1-4c37-a15c-905a3204ead2.png)
+    ![image](https://user-images.githubusercontent.com/465632/229542804-47dee070-10c0-4c8e-8ace-430c5793d6fc.png)
+  * Repeated Links (重環)
+  * Waves and Curves (波曲)
+    ![image](https://user-images.githubusercontent.com/465632/229543001-a9171d16-ba5a-4693-936a-fa66f2aaa08e.png)
+    ![image](https://user-images.githubusercontent.com/465632/229543415-1b6b6a28-6046-4db7-bf58-cda9b3cd86ae.png)
+  * Coiling Snake (蟠虺)
+    ![image](https://user-images.githubusercontent.com/465632/229543553-80dc5a48-3800-488f-92f7-7429d8d8d1f6.png)
+    ![image](https://user-images.githubusercontent.com/465632/229543661-cbd4c8f1-0334-44f0-abd2-5f94d4214610.png)
+  * Hornless Dragon (蟠螭)
+  * Down/Feather Motif (羽)
+  
 	
 
 ## Bibliography
