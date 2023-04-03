@@ -4,7 +4,7 @@ I'm going to go through various figures that appear in early chinese bronze vess
 
 ## Demons
 
-Animal-style motives that aren't portrayal of actual animals, but composites of different animal features and stylized animals, above all t'ao t'ieh + dragons.
+"Animal-style motives that aren't portrayal of actual animals, but composites of different animal features and stylized animals, above all t'ao t'ieh + dragons." (Costen)
 
 * Taotie (饕餮) 'glutton'
   * "The term t'ao-t'ieh denotes mask-like animal faces in frontal view, which lie flat on the surface of the vessel" (Consten)
@@ -36,6 +36,12 @@ Animal-style motives that aren't portrayal of actual animals, but composites of 
     ![image](https://user-images.githubusercontent.com/465632/229531956-1f60ebd1-3020-489a-844b-5990e3b6c0dc.png)
   * ![image](https://user-images.githubusercontent.com/465632/229532282-12f73358-1696-48b6-b836-4cd8d8a429cc.png)
     ![image](https://user-images.githubusercontent.com/465632/229532289-35f04f62-6224-4c9c-9f3d-c495ff1abaef.png)
+  * ![image](https://user-images.githubusercontent.com/465632/229540691-d7d55ea4-6c43-4485-8940-f26c9788be19.png)
+    ![image](https://user-images.githubusercontent.com/465632/229540721-971e86de-b3e0-478e-bf86-b2349c037e4a.png)
+
+* No idea
+  * ![image](https://user-images.githubusercontent.com/465632/229540844-d2201889-b2b8-48cc-a72e-cd47706a3da8.png)
+    ![image](https://user-images.githubusercontent.com/465632/229540899-95f7cd21-67ee-44c8-9e20-cf3fadc72acc.png)
 
 For the next category, I'm following Deydier.
 
@@ -48,6 +54,9 @@ For the next category, I'm following Deydier.
   * Owl (鴟)
     ![image](https://user-images.githubusercontent.com/465632/229533486-409388a3-e91b-4f48-bfa2-0134759d4f84.png)
     ![image](https://user-images.githubusercontent.com/465632/229533624-fa400554-733a-4401-92db-9ec25f5d90b6.png)
+    The book doesn't identify this as an owl, but I've seen people identify similar things, kind of bafflingly, as owls.
+    ![image](https://user-images.githubusercontent.com/465632/229540073-bf27af43-9242-44b6-986c-d3e4c3740d1c.png)
+    ![image](https://user-images.githubusercontent.com/465632/229540229-7036284e-4795-4389-9f1c-2a3f0b462522.png)
   * Snake (蛇)
     [TO DO]
   * Elephant (象)
@@ -71,7 +80,27 @@ For the next category, I'm following Deydier.
   * Fish (魚)
     ![image](https://user-images.githubusercontent.com/465632/229537830-dc652c7f-8896-4ef4-a122-bae6c6e80d65.png)
     ![image](https://user-images.githubusercontent.com/465632/229537927-65dc0871-9849-491f-98e4-15e864b1f6e4.png)
-
+  * Fabulous Birds (鳳)
+    ![image](https://user-images.githubusercontent.com/465632/229538248-71be61f7-30bc-43a0-80b6-143941ffc1d8.png)
+    ![image](https://user-images.githubusercontent.com/465632/229538315-ae0e2281-5c0c-4aa3-bd8a-8010667e9cf2.png)
+    ![image](https://user-images.githubusercontent.com/465632/229538360-f694197b-7a58-4a63-b5bc-c8c6aa1750e5.png)
+    ![image](https://user-images.githubusercontent.com/465632/229538419-c2b6fbf5-c749-4288-bcce-c4571a8eaaf8.png)
+    ![image](https://user-images.githubusercontent.com/465632/229538507-247c5621-49a4-44b1-91a9-01ddd9716297.png)
+    ![image](https://user-images.githubusercontent.com/465632/229538582-7d24f16b-ae6d-45df-90c0-656f6acb0d38.png)
+    ![image](https://user-images.githubusercontent.com/465632/229538651-9d6abe9a-3526-4a8c-9c29-d77abe640ca4.png)
+    ![image](https://user-images.githubusercontent.com/465632/229538699-dc0ad780-645a-44a5-8bc4-179ed026a9d1.png)
+    ![image](https://user-images.githubusercontent.com/465632/229539030-b107baf4-7ea9-407c-8fcc-3e5d87bf7ab7.png)
+    ![image](https://user-images.githubusercontent.com/465632/229539043-fd59c09d-1bbf-4d34-b7b5-be8be3a8f027.png)
+  * Cow/Ox/?
+    ![image](https://user-images.githubusercontent.com/465632/229539178-58056b8b-1e5d-476c-9241-5eb2cbc7443c.png)
+    ![image](https://user-images.githubusercontent.com/465632/229539241-6763b84f-8576-49c1-a2c9-ae8064a49b09.png)
+  * Deer (鹿)
+    ![image](https://user-images.githubusercontent.com/465632/229539451-b5869ced-32f7-44bd-b3aa-64b3bfac787a.png)
+    ![image](https://user-images.githubusercontent.com/465632/229539511-53bf2e90-20e3-4f47-b586-2d7bcf2b3768.png)
+    Note that the next one is a Taotie:
+    ![image](https://user-images.githubusercontent.com/465632/229539571-2e39579e-21f0-4106-9213-b37847ddbaf2.png)
+    ![image](https://user-images.githubusercontent.com/465632/229539680-e012f13a-fea5-4f97-9968-ceb592c09ea5.png)
+    
 
 	
 
