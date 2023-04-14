@@ -1,5 +1,7 @@
 # Figures in Bronzes 
 
+**Final image here ->> https://github.com/increpare/bronzes/blob/master/giant_bigger.png <<- Final image here**
+
 I'm going to go through various figures that appear in early chinese bronze vessels, as listed in Consten's and Deydier's books.  As an exercise to keep me entertained as I went through, I redrew many of the figures in a pixel-art style as I went - copying them out was a very good exercise in recognising what parts are what, deciding what parts are important vs decoration (even when it's not always so clear) etc.
 
 ## Demons
