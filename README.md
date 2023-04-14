@@ -24,6 +24,8 @@ I'm following Consten closely for this category:
   * Original term for them not known.  Cikoski speculates 蟡 could be the Classical Chinese term for 饕餮 based on this entry from the Guanzi (ca 600-300BC):
     * 蟡者一頭而兩身，其形若虵
     * Guǐ : one head and a pair of bodies, his form is like a snake.
+  * One of the [Four Perils](https://en.wikipedia.org/wiki/Four_Perils)
+  * https://ctext.org/dictionary.pl?if=en&id=357226 "古器有饕餮，垂腹，羸其面，坐則似人。"
   * Example:
     ![image](https://user-images.githubusercontent.com/465632/229495928-57e8a213-dcb4-4533-9453-4287033c797b.png)
     ![image](https://user-images.githubusercontent.com/465632/229495934-f417d1cf-b245-4844-8d1b-26ded9fadee8.png)
