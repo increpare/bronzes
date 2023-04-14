@@ -164,9 +164,20 @@ For the next category, I'm following Deydier.
 *	Koblock/Riegel - The Annals of Lü Buwei A Complete Translation and Study
 *	Yang Shen - Sheng'an Ji 升庵集
 *	https://en.wikipedia.org/wiki/Taotie
+*	Cikoski - Notes for a lexicon of classical Chinese - V1
 	
 ### Non-Consulted Bibliography
 * Hentze - Bronzegerät
 * Waterbury - Early Chinese Symbols and Literature
 * Ecke - Frühe chinesiche Bronzen aus der Sammlung Oskar Trautmanm 
 * Ackermann - Ritual Bronzes 
+
+
+
+
+
+
+
+
+
+
