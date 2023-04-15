@@ -57,7 +57,7 @@ When I was done I assembled them all into a single image:
         <td><img src="https://user-images.githubusercontent.com/465632/229519626-cd806ff3-7bf7-4312-86aa-83153ffc33bd.png" height="200px"></td>
         <td><img src="https://user-images.githubusercontent.com/465632/229520591-6f71a1df-2f4b-4c9a-98f8-2d9839c926db.png" height="200px"></td>        
     </tr>
-    <tr><td colspan=2>A bit abstracted and, though I didn't draw it like this, I think it wraps around repeating?</td></tr>
+    <tr><td colspan=2>A bit abstracted and, though I didn't draw it like this, t seems to wrap around as a repeating pattern?</td></tr>
     <tr>
         <td><img src="https://user-images.githubusercontent.com/465632/229547536-2549923f-2730-4702-919a-c7f8020097da.png" height="200px"></td>
         <td><img src="https://user-images.githubusercontent.com/465632/229547594-7f71fcba-9716-485b-afb8-0d6a1579f6f5.png" height="200px"></td>        
