@@ -40,11 +40,9 @@ I'm following Consten closely for this category:
     <tr><td colspan=2>Some Taotie are composed of two mirrored animals, left and right, like the following chameleon-like creatures:</td></tr>
     <tr>
         <td><img src="https://user-images.githubusercontent.com/465632/229496123-33077fba-bcbe-4f09-9daa-c56723db0b62.png" width="250px" max-height="100px"></td>
-        <td><img src="https://user-images.githubusercontent.com/465632/229497083-912f04d6-e16d-4600-bb3f-4edc3b837f8d.png" width="250px" max-height="100px"></td>        
-    </tr>
-    <tr>
-        <td><img src="aaa" width="250px" max-height="100px"></td>
-        <td><img src="https://user-images.githubusercontent.com/465632/229496883-85b2d52b-bd49-48f4-85eb-868cd0b46564.png" width="250px" max-height="100px"></td>        
+        <td><img src="https://user-images.githubusercontent.com/465632/229497083-912f04d6-e16d-4600-bb3f-4edc3b837f8d.png" width="250px" max-height="100px">
+		<br>
+        <img src="https://user-images.githubusercontent.com/465632/229496883-85b2d52b-bd49-48f4-85eb-868cd0b46564.png" width="250px" max-height="100px"></td>        
     </tr>
     <tr><td colspan=2>Some cannot be decomposed into left/right halves:</td></tr>
     <tr>
