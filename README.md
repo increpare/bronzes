@@ -14,10 +14,11 @@ I'm following Consten closely for this category:
   * "The term t'ao-t'ieh denotes mask-like animal faces in frontal view, which lie flat on the surface of the vessel" (Consten)
   * The Annals of Lü Buwei, 16/1.5 (~240BC) described as:
     * 周鼎著饕餮，有首無身，食人未咽，害及其身，以言報更也。為不善亦然。
-    * The tripods of Zhou are decorated with the Taotie.  It has a head but no body. It devours people, but since it can never swallow them, its actions bring harm to itself. [Koblock/Riegel].
-  * Shenyijing (神異經 - 'Magical Classic' ~100BC)
+    * The tripods of Zhou are decorated with the Taotie.  It has a head but no body. It devours people, but it can never swallow them, its actions bring harm to itself - by this one speaks of just desserts. That's how it is with evil deeds.
+  * Shenyijing (神異經 - 'Magical Classic' ~100BC), described as one of the [Four Perils](https://en.wikipedia.org/wiki/Four_Perils)
     * 西南方有人焉，身多毛，頭上戴豕。貪如狼惡，好自積財，而不食人穀。強者奪老弱者，畏群而擊單。名曰饕餮。
     * In the southwest region there is a man. He is very hairy, wears a pig on his head, is greedy like an evil wolf, likes to accumulate wealth, and doesn't eat human grains. He's strong and can snatch the old and weak, he's afraid of crowds and attacks individuals, his name is Taotie.
+    * 有人面目
   * Sheng'an Ji - Yang Shen (~1500AD):
     * 饕餮，好飲食，故立於鼎蓋
     * Taotie, likes to eat and drink, used to appear on the surface of dings (bronze vessels). [Wikipedia]
@@ -27,7 +28,6 @@ I'm following Consten closely for this category:
   * Original term for them not known.  Cikoski speculates 蟡 could be the Classical Chinese term for 饕餮 based on this entry from the Guanzi (ca 600-300BC):
     * 蟡者一頭而兩身，其形若虵
     * Guǐ : one head and a pair of bodies, his form is like a snake.
-  * One of the [Four Perils](https://en.wikipedia.org/wiki/Four_Perils)
   * https://ctext.org/dictionary.pl?if=en&id=357226 "古器有饕餮，垂腹，羸其面，坐則似人。"
  
   
