@@ -18,7 +18,6 @@ I'm following Consten closely for this category:
   * Shenyijing (神異經 - 'Magical Classic' ~100BC), described as one of the [Four Perils](https://en.wikipedia.org/wiki/Four_Perils)
     * 西南方有人焉，身多毛，頭上戴豕。貪如狼惡，好自積財，而不食人穀。強者奪老弱者，畏群而擊單。名曰饕餮。
     * In the southwest region there is a man. He is very hairy, wears a pig on his head, is greedy like an evil wolf, likes to accumulate wealth, and doesn't eat human grains. He's strong and can snatch the old and weak, he's afraid of crowds and attacks individuals, his name is Taotie.
-    * 有人面目
   * Sheng'an Ji - Yang Shen (~1500AD):
     * 饕餮，好飲食，故立於鼎蓋
     * Taotie, likes to eat and drink, used to appear on the surface of dings (bronze vessels). [Wikipedia]
