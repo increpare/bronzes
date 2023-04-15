@@ -6,34 +6,30 @@ I'm going to go through various figures that appear in early chinese bronze vess
 
 ## Taoties
 
-"Animal-style motives that aren't portrayal of actual animals, but composites of different animal features and stylized animals, above all t'ao t'ieh + dragons." (Costen)
+* "The term t'ao-t'ieh denotes mask-like animal faces in frontal view, which lie flat on the surface of the vessel" (Consten)
+* The Annals of Lü Buwei, 16/1.5 (~240BC) described as:
+  * 周鼎著饕餮，有首無身，食人未咽，害及其身，以言報更也。為不善亦然。
+  * The tripods of Zhou are decorated with the Taotie.  It has a head but no body. It devours people, but it can never swallow them, its actions bring harm to itself - by this one speaks of just desserts. That's how it is with evil deeds.
+* Shenyijing (神異經 - 'Magical Classic' ~100BC), described as one of the [Four Perils](https://en.wikipedia.org/wiki/Four_Perils)
+  * 西南方有人焉，身多毛，頭上戴豕。貪如狼惡，好自積財，而不食人穀。強者奪老弱者，畏群而擊單。名曰饕餮。
+  * In the southwest region there is a man. He is very hairy, wears a pig on his head, is greedy like an evil wolf, likes to accumulate wealth, and doesn't eat human grains. He's strong and can snatch the old and weak, he's afraid of crowds and attacks individuals, his name is Taotie.
+* Sheng'an Ji - Yang Shen (~1500AD):
+  * 饕餮，好飲食，故立於鼎蓋
+  * Taotie, likes to eat and drink, used to appear on the surface of dings (bronze vessels). [Wikipedia]
+* Both Karlgren and Consten dislike the term when applied to these bronze faces, because they don't believe the explanations talk about what the figures represent:
+  * Karlgren: "This somewhat unfortunate term, foolishly introduced by the Sung time archaeologists, is so current in literature about Chinese bronzes that we had better maintain it."
+  * Deydier: "According to an ancient Chinese myth, a being called taotie 饕餮 was the son of the God Jinyun 神人縉雲氏. A good-for-nothing, fear-inspiring, avaricious and gluttonous creature, taotie 饕餮 had an insatiable appetite for human beings. He eventually became so gluttonous that he was unable to digest all that he devoured, until one day a human victim got caught in his throat and he choked, with the result that his lower body gradually disappeared, leaving only his big greedy face, a fierce reminder to all of the ill, self-harming effects of avarice, gluttony and wastefulness."
+* Original term for them not known.  Cikoski speculates 蟡 could be the Classical Chinese term for 饕餮 based on this entry from the Guanzi (ca 600-300BC):
+  * 蟡者一頭而兩身，其形若虵
+  * Guǐ : one head and a pair of bodies, his form is like a snake.
+* https://ctext.org/dictionary.pl?if=en&id=357226 "古器有饕餮，垂腹，羸其面，坐則似人。"
 
-I'm following Consten closely for this category:
-
-* Taotie (饕餮) 'glutton'
-  * "The term t'ao-t'ieh denotes mask-like animal faces in frontal view, which lie flat on the surface of the vessel" (Consten)
-  * The Annals of Lü Buwei, 16/1.5 (~240BC) described as:
-    * 周鼎著饕餮，有首無身，食人未咽，害及其身，以言報更也。為不善亦然。
-    * The tripods of Zhou are decorated with the Taotie.  It has a head but no body. It devours people, but it can never swallow them, its actions bring harm to itself - by this one speaks of just desserts. That's how it is with evil deeds.
-  * Shenyijing (神異經 - 'Magical Classic' ~100BC), described as one of the [Four Perils](https://en.wikipedia.org/wiki/Four_Perils)
-    * 西南方有人焉，身多毛，頭上戴豕。貪如狼惡，好自積財，而不食人穀。強者奪老弱者，畏群而擊單。名曰饕餮。
-    * In the southwest region there is a man. He is very hairy, wears a pig on his head, is greedy like an evil wolf, likes to accumulate wealth, and doesn't eat human grains. He's strong and can snatch the old and weak, he's afraid of crowds and attacks individuals, his name is Taotie.
-  * Sheng'an Ji - Yang Shen (~1500AD):
-    * 饕餮，好飲食，故立於鼎蓋
-    * Taotie, likes to eat and drink, used to appear on the surface of dings (bronze vessels). [Wikipedia]
-  * Both Karlgren and Consten dislike the term when applied to these bronze faces, because they don't believe the explanations talk about what the figures represent:
-    * Karlgren: "This somewhat unfortunate term, foolishly introduced by the Sung time archaeologists, is so current in literature about Chinese bronzes that we had better maintain it."
-    * Deydier: "According to an ancient Chinese myth, a being called taotie 饕餮 was the son of the God Jinyun 神人縉雲氏. A good-for-nothing, fear-inspiring, avaricious and gluttonous creature, taotie 饕餮 had an insatiable appetite for human beings. He eventually became so gluttonous that he was unable to digest all that he devoured, until one day a human victim got caught in his throat and he choked, with the result that his lower body gradually disappeared, leaving only his big greedy face, a fierce reminder to all of the ill, self-harming effects of avarice, gluttony and wastefulness."
-  * Original term for them not known.  Cikoski speculates 蟡 could be the Classical Chinese term for 饕餮 based on this entry from the Guanzi (ca 600-300BC):
-    * 蟡者一頭而兩身，其形若虵
-    * Guǐ : one head and a pair of bodies, his form is like a snake.
-  * https://ctext.org/dictionary.pl?if=en&id=357226 "古器有饕餮，垂腹，羸其面，坐則似人。"
- 
   
 ## Studies of Taotie's and other figures on bronzes:  
 
 <table>
     <tr><th colspan=2><b>DEMONS/MYTHICAL BEASTS</b></th></tr>
+    <tr><td colspan=2>"Animal-style motives that aren't portrayal of actual animals, but composites of different animal features and stylized animals, above all t'ao t'ieh + dragons." (Costen)</td><tr>
     <tr><th colspan=2><b>Taotie</b></th></tr>
     <tr><td colspan=2>A basic taotie:</td></tr>
     <tr>
