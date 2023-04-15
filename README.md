@@ -1,6 +1,12 @@
 # Figures in Chinese Bronzes 
 
-I'm going to go through various figures that appear in early chinese bronze vessels, as listed in Consten's and Deydier's books.  As an exercise to keep me entertained as I went through, I redrew many of the figures in a pixel-art style as I went - copying them out was a very good exercise in recognising what parts are what, deciding what parts are important vs decoration (even when it's not always so clear) etc.
+This turned into two unrelated parts.  
+* Looking up what a Taotie actually is, and where the term comes from.
+* Looking at many of the figures that can appear on bronze vessels.
+
+As an exercise to keep me entertained as I went through, I redrew many of the figures in a pixel-art style.  Copying them out was, it turned out, a very good exercise in recognising what parts are where, deciding what parts are important vs decoration (often not very clear) etc. .  
+
+When I was done I assembled them all into a single image:
 
 [<img src="https://raw.githubusercontent.com/increpare/bronzes/master/giant.png" height="200px"><br>CLICK TO ZOOM](https://raw.githubusercontent.com/increpare/bronzes/master/giant_bigger.png)
 
