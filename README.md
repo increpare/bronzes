@@ -22,8 +22,6 @@ I'm going to go through various figures that appear in early chinese bronze vess
 * Original term for them not known.  Cikoski speculates 蟡 could be the Classical Chinese term for 饕餮 based on this entry from the Guanzi (ca 600-300BC):
   * 蟡者一頭而兩身，其形若虵
   * Guǐ : one head and a pair of bodies, his form is like a snake.
-* https://ctext.org/dictionary.pl?if=en&id=357226 "古器有饕餮，垂腹，羸其面，坐則似人。"
-
   
 ## Studies of Taotie's and other figures on bronzes:  
 
@@ -239,6 +237,7 @@ Above, the Demons category is taken from Consten, and the examples for the other
 * Waterbury - Early Chinese Symbols and Literature
 * Ecke - Frühe chinesiche Bronzen aus der Sammlung Oskar Trautmanm 
 * Ackermann - Ritual Bronzes 
+* https://ctext.org/dictionary.pl?if=en&id=357226
 
 
 
