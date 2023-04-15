@@ -244,7 +244,7 @@ Above, the Demons category is taken from Consten, and the examples for the other
 * Ecke - Frühe chinesiche Bronzen aus der Sammlung Oskar Trautmanm 
 * Ackermann - Ritual Bronzes 
 * https://ctext.org/dictionary.pl?if=en&id=357226
-
+* Paper - The Meaning of the "T'ao-T'ieh"
 
 
 
